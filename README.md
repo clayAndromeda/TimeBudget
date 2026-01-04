@@ -57,7 +57,7 @@ git push origin main
 4. 「Branch」で「main」ブランチと「/ (root)」を選択
 5. 「Save」ボタンをクリック
 
-数分後、`https://clayAndromeda.github.io/リポジトリ名/` でアクセスできるようになります。
+数分後、`https://clayAndromeda.github.io/TimeBudget/` でアクセスできるようになります。
 
 ## 技術スタック
 
